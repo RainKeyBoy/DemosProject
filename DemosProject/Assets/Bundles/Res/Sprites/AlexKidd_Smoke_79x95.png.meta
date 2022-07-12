@@ -1,0 +1,1147 @@
+fileFormatVersion: 2
+guid: 0e2efc5621c7705459c089e27e9c81f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5507767071254526269
+    second: AlexKidd_Smoke_79x95_0
+  - first:
+      213: -1357808167852454278
+    second: AlexKidd_Smoke_79x95_1
+  - first:
+      213: -3413218426798276490
+    second: AlexKidd_Smoke_79x95_2
+  - first:
+      213: 6169360968690865668
+    second: AlexKidd_Smoke_79x95_3
+  - first:
+      213: -8482973114007495287
+    second: AlexKidd_Smoke_79x95_4
+  - first:
+      213: -515541226629266482
+    second: AlexKidd_Smoke_79x95_5
+  - first:
+      213: 4960785748336930425
+    second: AlexKidd_Smoke_79x95_6
+  - first:
+      213: 3409612868814334673
+    second: AlexKidd_Smoke_79x95_7
+  - first:
+      213: 7277646448304260568
+    second: AlexKidd_Smoke_79x95_8
+  - first:
+      213: 2616971690491408624
+    second: AlexKidd_Smoke_79x95_9
+  - first:
+      213: -7702653746998390712
+    second: AlexKidd_Smoke_79x95_10
+  - first:
+      213: 2326661716014993376
+    second: AlexKidd_Smoke_79x95_11
+  - first:
+      213: -1747648280088039834
+    second: AlexKidd_Smoke_79x95_12
+  - first:
+      213: -7572828225054375583
+    second: AlexKidd_Smoke_79x95_13
+  - first:
+      213: -1502323375612785089
+    second: AlexKidd_Smoke_79x95_14
+  - first:
+      213: -3508996369595673648
+    second: AlexKidd_Smoke_79x95_15
+  - first:
+      213: -1966944172084911698
+    second: AlexKidd_Smoke_79x95_16
+  - first:
+      213: 4486042882133439912
+    second: AlexKidd_Smoke_79x95_17
+  - first:
+      213: -970425855903137564
+    second: AlexKidd_Smoke_79x95_18
+  - first:
+      213: -199357560708070720
+    second: AlexKidd_Smoke_79x95_19
+  - first:
+      213: -8064033057396146290
+    second: AlexKidd_Smoke_79x95_20
+  - first:
+      213: 5156618954863134477
+    second: AlexKidd_Smoke_79x95_21
+  - first:
+      213: -5805225474545613410
+    second: AlexKidd_Smoke_79x95_22
+  - first:
+      213: 2436242644370980596
+    second: AlexKidd_Smoke_79x95_23
+  - first:
+      213: 1479801031353630533
+    second: AlexKidd_Smoke_79x95_24
+  - first:
+      213: -6066143540675786090
+    second: AlexKidd_Smoke_79x95_25
+  - first:
+      213: -7707749544780677939
+    second: AlexKidd_Smoke_79x95_26
+  - first:
+      213: 3847323971302619531
+    second: AlexKidd_Smoke_79x95_27
+  - first:
+      213: -792097167156355683
+    second: AlexKidd_Smoke_79x95_28
+  - first:
+      213: 8217039640374939921
+    second: AlexKidd_Smoke_79x95_29
+  - first:
+      213: 5396036532552343011
+    second: AlexKidd_Smoke_79x95_30
+  - first:
+      213: 3135781280514407016
+    second: AlexKidd_Smoke_79x95_31
+  - first:
+      213: 2827816675606181640
+    second: AlexKidd_Smoke_79x95_32
+  - first:
+      213: 406827911501480750
+    second: AlexKidd_Smoke_79x95_33
+  - first:
+      213: 4014590181427753352
+    second: AlexKidd_Smoke_79x95_34
+  - first:
+      213: -39571308558917244
+    second: AlexKidd_Smoke_79x95_35
+  - first:
+      213: -2143643853785690467
+    second: AlexKidd_Smoke_79x95_36
+  - first:
+      213: 8538256795212351112
+    second: AlexKidd_Smoke_79x95_37
+  - first:
+      213: -9171159451350284791
+    second: AlexKidd_Smoke_79x95_38
+  - first:
+      213: 3083032149109825250
+    second: AlexKidd_Smoke_79x95_39
+  - first:
+      213: -5513740471730915238
+    second: AlexKidd_Smoke_79x95_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.7594937, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3938bb48f48f6c40800000000000000
+      internalID: 5507767071254526269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 570
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec7025aa8182de0800000000000000
+      internalID: -1357808167852454278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 570
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6700fd1ccefc1a0d0800000000000000
+      internalID: -3413218426798276490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 570
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4069af54d19fd9550800000000000000
+      internalID: 6169360968690865668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 570
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dd464c5ec664a80800000000000000
+      internalID: -8482973114007495287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 570
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec381bf5cfd68d8f0800000000000000
+      internalID: -515541226629266482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 570
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e6170da5048d440800000000000000
+      internalID: 4960785748336930425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da674bd6d0615f20800000000000000
+      internalID: 3409612868814334673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 475
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d50f08d2e46ff460800000000000000
+      internalID: 7277646448304260568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 475
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07efe13e9515420800000000000000
+      internalID: 2616971690491408624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 475
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840545e3a3daa1590800000000000000
+      internalID: -7702653746998390712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 475
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef0397e086f94020800000000000000
+      internalID: 2326661716014993376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 475
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea701162b1fb7e0800000000000000
+      internalID: -1747648280088039834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 475
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16105941ad8e7e690800000000000000
+      internalID: -7572828225054375583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e85da79dca62be0800000000000000
+      internalID: -1502323375612785089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 380
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d35d10b46a8d4fc0800000000000000
+      internalID: -3508996369595673648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 380
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1aad162b204b4e0800000000000000
+      internalID: -1966944172084911698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 380
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5bbb4bb30a14e30800000000000000
+      internalID: 4486042882133439912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 380
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e00a0a53da5882f0800000000000000
+      internalID: -970425855903137564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 380
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c205b2da5dbb3df0800000000000000
+      internalID: -199357560708070720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 380
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f35ecc8acc61090800000000000000
+      internalID: -8064033057396146290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07c9a65e9dff8740800000000000000
+      internalID: 5156618954863134477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 285
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9509a43032bf6fa0800000000000000
+      internalID: -5805225474545613410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 285
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fef36cf6c54fc120800000000000000
+      internalID: 2436242644370980596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_24
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 285
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ff61c923f498410800000000000000
+      internalID: 1479801031353630533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 285
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a4d7de69ab0dba0800000000000000
+      internalID: -6066143540675786090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 285
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc3bad50a2980590800000000000000
+      internalID: -7707749544780677939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_27
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 285
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89765594c0746530800000000000000
+      internalID: 3847323971302619531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d5d0cb2d7e105f0800000000000000
+      internalID: -792097167156355683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 190
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1111ad5640ac80270800000000000000
+      internalID: 8217039640374939921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 190
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed10dd03a292ea40800000000000000
+      internalID: 5396036532552343011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_31
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 190
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a7166e578848b20800000000000000
+      internalID: 3135781280514407016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_32
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 190
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807be67b84c6e3720800000000000000
+      internalID: 2827816675606181640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 190
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2382cd74d755a500800000000000000
+      internalID: 406827911501480750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_34
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 190
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881b5c2ff70b6b730800000000000000
+      internalID: 4014590181427753352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4816c02ca1a637ff0800000000000000
+      internalID: -39571308558917244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e8722c54f3042e0800000000000000
+      internalID: -2143643853785690467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 95
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88682bf415bfd7670800000000000000
+      internalID: 8538256795212351112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_38
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 95
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906ccc3e11f79b080800000000000000
+      internalID: -9171159451350284791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 95
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eedccea76129ca20800000000000000
+      internalID: 3083032149109825250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexKidd_Smoke_79x95_40
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 95
+        width: 79
+        height: 95
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.042105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58b8c601424b73b0800000000000000
+      internalID: -5513740471730915238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dbba9943000014b4b90b40b7e865a379
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AlexKidd_Smoke_79x95_0: 5507767071254526269
+      AlexKidd_Smoke_79x95_31: 3135781280514407016
+      AlexKidd_Smoke_79x95_8: 7277646448304260568
+      AlexKidd_Smoke_79x95_2: -3413218426798276490
+      AlexKidd_Smoke_79x95_33: 406827911501480750
+      AlexKidd_Smoke_79x95_17: 4486042882133439912
+      AlexKidd_Smoke_79x95_35: -39571308558917244
+      AlexKidd_Smoke_79x95_5: -515541226629266482
+      AlexKidd_Smoke_79x95_7: 3409612868814334673
+      AlexKidd_Smoke_79x95_24: 1479801031353630533
+      AlexKidd_Smoke_79x95_13: -7572828225054375583
+      AlexKidd_Smoke_79x95_38: -9171159451350284791
+      AlexKidd_Smoke_79x95_1: -1357808167852454278
+      AlexKidd_Smoke_79x95_15: -3508996369595673648
+      AlexKidd_Smoke_79x95_6: 4960785748336930425
+      AlexKidd_Smoke_79x95_18: -970425855903137564
+      AlexKidd_Smoke_79x95_19: -199357560708070720
+      AlexKidd_Smoke_79x95_26: -7707749544780677939
+      AlexKidd_Smoke_79x95_12: -1747648280088039834
+      AlexKidd_Smoke_79x95_14: -1502323375612785089
+      AlexKidd_Smoke_79x95_27: 3847323971302619531
+      AlexKidd_Smoke_79x95_20: -8064033057396146290
+      AlexKidd_Smoke_79x95_39: 3083032149109825250
+      AlexKidd_Smoke_79x95_21: 5156618954863134477
+      AlexKidd_Smoke_79x95_34: 4014590181427753352
+      AlexKidd_Smoke_79x95_36: -2143643853785690467
+      AlexKidd_Smoke_79x95_37: 8538256795212351112
+      AlexKidd_Smoke_79x95_4: -8482973114007495287
+      AlexKidd_Smoke_79x95_16: -1966944172084911698
+      AlexKidd_Smoke_79x95_30: 5396036532552343011
+      AlexKidd_Smoke_79x95_25: -6066143540675786090
+      AlexKidd_Smoke_79x95_23: 2436242644370980596
+      AlexKidd_Smoke_79x95_22: -5805225474545613410
+      AlexKidd_Smoke_79x95_28: -792097167156355683
+      AlexKidd_Smoke_79x95_32: 2827816675606181640
+      AlexKidd_Smoke_79x95_40: -5513740471730915238
+      AlexKidd_Smoke_79x95_29: 8217039640374939921
+      AlexKidd_Smoke_79x95_9: 2616971690491408624
+      AlexKidd_Smoke_79x95_3: 6169360968690865668
+      AlexKidd_Smoke_79x95_10: -7702653746998390712
+      AlexKidd_Smoke_79x95_11: 2326661716014993376
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
