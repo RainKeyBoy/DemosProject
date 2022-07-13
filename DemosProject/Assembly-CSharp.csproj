@@ -44,6 +44,9 @@
      <Compile Include="Assets\Scripts\GameStart.cs" />
      <Compile Include="Assets\Scripts\Timeline\TimelineControl.cs" />
      <Compile Include="Assets\Scripts\Manager\Manager_Event.cs" />
+     <Compile Include="Assets\Scripts\Static\Helper\FloatHelper.cs" />
+     <Compile Include="Assets\Scripts\GameConfig.cs" />
+     <Compile Include="Assets\Scripts\Static\Helper\Vector3Helper.cs" />
      <Compile Include="Assets\Scripts\KCP\KCP_Client.cs" />
      <Compile Include="Assets\Scripts\UDP\UDP_Server.cs" />
      <Compile Include="Assets\Scripts\KCP\KCP_Server.cs" />
@@ -51,10 +54,7 @@
      <Compile Include="Assets\Scripts\TCP\TCP_Server.cs" />
      <Compile Include="Assets\Scripts\TCP\TCP_Client.cs" />
      <Compile Include="Assets\Scripts\UDP\UDP_Client.cs" />
-     <Compile Include="Assets\Scripts\GameConfig.cs" />
      <Compile Include="Assets\Scripts\Static\Helper\IntHelper.cs" />
-     <Compile Include="Assets\Scripts\Static\Helper\FloatHelper.cs" />
-     <Compile Include="Assets\Scripts\Static\Helper\Vector3Helper.cs" />
      <Reference Include="UnityEngine">
      <HintPath>E:/UnityEditor/2021.2.3f1c1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
