@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: GameConfig
   m_EditorClassIdentifier: 
   AssetsPixelsPerUnit: 100
-  GridSize: 10
+  GridSize: 32

@@ -55,6 +55,9 @@
      <Compile Include="Assets\Scripts\TCP\TCP_Client.cs" />
      <Compile Include="Assets\Scripts\UDP\UDP_Client.cs" />
      <Compile Include="Assets\Scripts\Static\Helper\IntHelper.cs" />
+     <Compile Include="Assets\Scripts\Static\Helper\GlobalHelper.cs" />
+     <Compile Include="Assets\Scripts\Enum\EGridPivot.cs" />
+     <None Include="Assets\Cainos\Pixel Art Platformer - Village Props\Changelog.txt" />
      <Reference Include="UnityEngine">
      <HintPath>E:/UnityEditor/2021.2.3f1c1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>

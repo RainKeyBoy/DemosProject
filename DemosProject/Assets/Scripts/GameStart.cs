@@ -1,28 +1,23 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using Unity.Mathematics;
-using UnityEditor.VersionControl;
 using UnityEngine;
 using UnityEngine.Experimental.Rendering.Universal;
-using UnityEngine.U2D;
 
 public class GameStart : MonoBehaviour
 {
     /// <summary>
     /// 游戏配置
     /// </summary>
-    private GameConfig _gameConfig;
-
-    /// <summary>
-    /// 2D完美像素的脚本
-    /// </summary>
-    public PixelPerfectCamera PixelPerfectCamera;
+    public static GameConfig GameConfig;
 
     /// <summary>
     /// 世界的父物体
     /// </summary>
     public Transform WorldParent;
+
+    /// <summary>
+    /// 2D完美像素的脚本
+    /// </summary>
+    public PixelPerfectCamera PixelPerfectCamera;
 
     /// <summary>
     /// 主摄像机
@@ -32,20 +27,20 @@ public class GameStart : MonoBehaviour
     private void Awake()
     {
         //加载游戏配置
-        if (!_gameConfig)
+        if (!GameConfig)
         {
-            _gameConfig = Resources.Load<GameConfig>("GameConfig");
+            GameConfig = Resources.Load<GameConfig>("GameConfig");
         }
 
-        if (!_gameConfig)
+        if (!GameConfig)
         {
             Debug.LogError("GameConfig load failed!!!");
             return;
         }
 
         //获取2D完美像素的尺寸
-        int assetsPixelPerUnit = _gameConfig.AssetsPixelsPerUnit;
-        int gridSize = _gameConfig.GridSize;
+        int assetsPixelPerUnit = GameConfig.AssetsPixelsPerUnit;
+        int gridSize = GameConfig.GridSize;
 
         if (PixelPerfectCamera)
         {
