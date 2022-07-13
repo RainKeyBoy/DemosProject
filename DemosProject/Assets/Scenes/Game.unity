@@ -5540,7 +5540,7 @@ Camera:
   far clip plane: 1000
   field of view: 1.6
   orthographic: 1
-  orthographic size: 1.17
+  orthographic size: 1.08
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -15845,7 +15845,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f4f4f34e5ee2a94fad5b4af88e5141e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GridSize: 10
   PixelPerfectCamera: {fileID: 854567035}
   WorldParent: {fileID: 1559047138}
   MainCamera: {fileID: 854567031}

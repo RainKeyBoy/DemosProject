@@ -1,6 +1,8 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Mathematics;
+using UnityEditor.VersionControl;
 using UnityEngine;
 using UnityEngine.Experimental.Rendering.Universal;
 using UnityEngine.U2D;
@@ -8,10 +10,10 @@ using UnityEngine.U2D;
 public class GameStart : MonoBehaviour
 {
     /// <summary>
-    /// 每一个格子的大小
+    /// 游戏配置
     /// </summary>
-    public int GridSize = 10;
-    
+    private GameConfig _gameConfig;
+
     /// <summary>
     /// 2D完美像素的脚本
     /// </summary>
@@ -29,16 +31,42 @@ public class GameStart : MonoBehaviour
 
     private void Awake()
     {
-        //获取2D完美像素的尺寸
-        if (PixelPerfectCamera &&
-            WorldParent)
+        //加载游戏配置
+        if (!_gameConfig)
         {
-            int assetsPixelsPerUnit = PixelPerfectCamera.assetsPPU;
-            float posOffset = (float)GridSize / 2 / assetsPixelsPerUnit;
-            float scaOffset = (float)1 / assetsPixelsPerUnit;
-            WorldParent.position = new Vector3(posOffset, posOffset, 0);
-            WorldParent.rotation = Quaternion.identity;
-            WorldParent.localScale = new Vector3(scaOffset, scaOffset, scaOffset);
+            _gameConfig = Resources.Load<GameConfig>("GameConfig");
+        }
+
+        if (!_gameConfig)
+        {
+            Debug.LogError("GameConfig load failed!!!");
+            return;
+        }
+
+        //获取2D完美像素的尺寸
+        int assetsPixelPerUnit = _gameConfig.AssetsPixelsPerUnit;
+        int gridSize = _gameConfig.GridSize;
+
+        if (PixelPerfectCamera)
+        {
+            PixelPerfectCamera.assetsPPU = assetsPixelPerUnit;
+        }
+        else
+        {
+            Debug.LogError("PixelPerfectCamera is null!!!");
+        }
+
+        if (WorldParent)
+        {
+            float offsetPos = (float)gridSize / 2 / assetsPixelPerUnit;
+            float scale = (float)1 / assetsPixelPerUnit;
+            WorldParent.position = new Vector3(offsetPos, offsetPos, 0);
+            WorldParent.rotation = quaternion.identity;
+            WorldParent.localScale = scale.CoverToVector3();
+        }
+        else
+        {
+            Debug.LogError("WorldParent is null!!!");
         }
     }
 }
